@@ -4,6 +4,12 @@ We built a custom select component with a menu with animations and beautiful gra
 
 ![screenshot](./app-screenshot.jpg) 
 
+## Video Tutorial
+
+[color-picker part 1](https://www.youtube.com/watch?v=pouz7ynFysQ&t=23s)
+
+[color-picker part 2](https://www.youtube.com/watch?v=-zUJV3N59cs&t=4s)
+
 ## Built with
 - JavaScript
 - react 
